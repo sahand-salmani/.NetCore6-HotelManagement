@@ -1,0 +1,17 @@
+F:\Personal Projects\HotelManagement\Application\bin\Debug\net6.0\Application.deps.json
+F:\Personal Projects\HotelManagement\Application\bin\Debug\net6.0\Application.dll
+F:\Personal Projects\HotelManagement\Application\bin\Debug\net6.0\Application.pdb
+F:\Personal Projects\HotelManagement\Application\bin\Debug\net6.0\Domain.dll
+F:\Personal Projects\HotelManagement\Application\bin\Debug\net6.0\Infrastructure.dll
+F:\Personal Projects\HotelManagement\Application\bin\Debug\net6.0\Domain.pdb
+F:\Personal Projects\HotelManagement\Application\bin\Debug\net6.0\Infrastructure.pdb
+F:\Personal Projects\HotelManagement\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+F:\Personal Projects\HotelManagement\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Personal Projects\HotelManagement\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+F:\Personal Projects\HotelManagement\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+F:\Personal Projects\HotelManagement\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+F:\Personal Projects\HotelManagement\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+F:\Personal Projects\HotelManagement\Application\obj\Debug\net6.0\Application.dll
+F:\Personal Projects\HotelManagement\Application\obj\Debug\net6.0\refint\Application.dll
+F:\Personal Projects\HotelManagement\Application\obj\Debug\net6.0\Application.pdb
+F:\Personal Projects\HotelManagement\Application\obj\Debug\net6.0\ref\Application.dll
