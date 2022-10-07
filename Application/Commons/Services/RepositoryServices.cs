@@ -1,4 +1,5 @@
 ﻿using Application.Hotels.Repositories;
+using Infrastructure.Commons.Repositories;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Application.Commons.Services
@@ -7,7 +8,8 @@ namespace Application.Commons.Services
     {
         public static void AddRepositoryService(this IServiceCollection serviceCollection)
         {
-            serviceCollection.AddScoped<IHotelRepository, HotelRepository>();
+            serviceCollection.AddTransient<IPersistence, Persistence>();
+            serviceCollection.AddTransient<IHotelRepository, HotelRepository>();
         }
     }
 }
